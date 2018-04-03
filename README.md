@@ -2,7 +2,7 @@
 一个pwa应用，简单的获取todo list，可离线使用，添加到桌面
 
 ## 使用方法
-<p>依赖：node</p>
+依赖：node
 1. 克隆仓库：`git clone https://github.com/BeckyWang/pwa-todolist.git`
 2. 安装依赖：`npm install `可使用淘宝镜像cnpm
 3. 本地测试：`npm run server` 启动node的http服务器。
